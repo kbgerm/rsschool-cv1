@@ -1,6 +1,6 @@
 # Katsiatyna Barysevich
 # _Pre-junior JS/Front-End engineer_
-
+![My photo]()
 ### **tel: +777777777777**
 ### **email: email@gmail.com**
 ### **git: [My GitHub](https://github.com/kbgerm)**
