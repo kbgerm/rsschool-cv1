@@ -2,7 +2,7 @@
 Pre-junior Front-End developer
 ### **tel: +777777777777**
 ### **email: email@gmail.com**
-### **git: [My GitHub](https://github.com/kbgerm**)
+### **git: [My GitHub](https://github.com/kbgerm)**
 ## About myself:
 I am a microbiologist, but recently I have decided to change my profession and become a programmer. Microbiology is an interesting and useful profession, but after working for two years in distribution, I realized that science is not exactly what I want to do in life. Programming for me is not so much a desire to earn money and be useful, but an opportunity to gain life experience and find a job that I like.
 
@@ -13,12 +13,12 @@ I consider communication skills and ability to work in a team as my strengths. A
 * HTML5/CSS3
 * VSCode
 ## Code Example:
-'''
+```
 function otherAngle(a, b) {
   let c = 180 - (a + b)
   return c;
 }
-'''
+```
 ## Experience:
 * CV#2+CV#3
 ## Education:
